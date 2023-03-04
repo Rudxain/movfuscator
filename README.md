@@ -88,6 +88,8 @@ instructions, objdump the result, and run the program.
 ./check.sh
 ```
 
+For extra safety, you should run this on a VM.
+
 ## Usage
 
 Compile programs as you would with any traditional C compiler:
